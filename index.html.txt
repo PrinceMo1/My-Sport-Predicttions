@@ -41,7 +41,7 @@
     <!-- Frontend logic to fetch and display prediction algorithms -->
     <script>
         // Using a free, no-auth testing endpoint from API-Football for live fixtures
-        const API_URL = "https://api-sports.io";
+        const API_URL = "https://githubusercontent.com";
 
         async function fetchMatches() {
             const container = document.getElementById('match-container');
